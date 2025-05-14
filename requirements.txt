@@ -1,0 +1,10 @@
+streamlit==1.35.0
+pandas
+numpy
+pydeck
+plotly
+fpdf
+scikit-learn
+seaborn
+matplotlib
+statsmodels
